@@ -15,3 +15,8 @@
 > Structure
 
     Instructions and a link to the actual task included in comments.
+    
+> Note:
+
+    This repository contains ONLY freely available training tasks.
+    No interview tasks (or their solutions) will be posted here. 
